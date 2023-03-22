@@ -1,10 +1,10 @@
 ### Hi I am Ashish 👋
 I am a Data Scientist interseted in Machine Learning, Deep Learning, Computer Vision and Reinforcement Learning
 
--  :computer: I’m currently working as an **Expert Data Scientist / Machine Learing Engineer at @TomTom**. Previous experiences include Here Maps, Atos Worldline.
-- :telescope: I’m currently learning Graph Nerual Networks and Multi-modal learning
-- :seedling: I’m looking to collaborate on Computer Vision Project in Maps, GIS and Earth Observation domain.
-- I write articles on [Medium](https://medium.com/@ashish.dhiman)
+-  :computer: I am currently working as an **Expert Data Scientist / Machine Learing Engineer at @TomTom**. Previous experiences include Here Maps, Atos Worldline.
+- :telescope: I am currently learning Graph Nerual Networks and Multi-modal learning
+- :seedling: I am looking to collaborate on Computer Vision projects related to maps, GIS, and Earth Observation.
+- I write articles and technical blogs on [Medium](https://medium.com/@ashish.dhiman) with related code content here on Github.
 - :mortar_board: I have studied :
   * CS Masters with Specialization in Machine Learning from Georgia Institute of Technology, US
   * Bachelors in Electrical Engineering from NIT Hamirpur, India

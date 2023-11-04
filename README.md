@@ -1,7 +1,7 @@
 ### Hi I am Ashish 👋
 I am a Data Scientist interseted in Machine Learning, Deep Learning, Computer Vision and Reinforcement Learning
 
--  :computer: I am currently working as an **Expert Data Scientist / Machine Learing Engineer at @TomTom**. Previous experiences include Here Maps, Atos Worldline.
+-  :computer: I am currently working on **Applied Deep Learning at @TomTom**. Previous experiences include Here Maps, Atos Worldline.
 - I write articles and technical blogs on [Medium](https://medium.com/@ashish.dhiman) with related code content here on Github.
 - :telescope: I am currently learning Graph Nerual Networks and Multi-modal learning
 - :seedling: I am looking to collaborate on Computer Vision projects related to maps, GIS, and Earth Observation.

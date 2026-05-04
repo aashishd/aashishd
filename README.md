@@ -7,7 +7,7 @@ I am an Applied ML Engineer working on Deep Learning, Sensor Data, Computer Visi
 - :seedling: I am looking to collaborate on Computer Vision projects related to maps, GIS, and Earth Observation.
 
 - :mortar_board: I have studied :
-  * CS Masters with Specialization in Machine Learning from Georgia Institute of Technology, US
+  * MS with Specialization in Machine Learning from Georgia Institute of Technology, US
   * Bachelors in Electrical Engineering from NIT Hamirpur, India
 - 📫 How to reach me: 
   * https://www.linkedin.com/in/ashishdhiman89/ 
